@@ -49,5 +49,5 @@ Full Stack Developer con formación en Interpretación Instrumental con mención
 ## Contacto
 
 - Correo electrónico: mariogutierreztello@gmail.com
-- LinkedIn: [linkedin.com/in/mario-gutierrez-tello](linkedin.com/in/mario-gutierrez-tello)
-- GitHub: [github.com/MarioGuTe](github.com/MarioGuTe)
+- LinkedIn: [linkedin.com/in/mario-gutierrez-tello](https://www.linkedin.com/in/mario-gutierrez-tello/)
+- GitHub: [github.com/MarioGuTe](https://github.com/MarioGuTe)
