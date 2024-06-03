@@ -1,16 +1,36 @@
-## Hi there 👋
+Sobre mí
+Full Stack Developer con formación en Interpretación Instrumental con mención en Guitarra y experiencia en docencia y gestión de grupos.
 
-<!--
-**MarioGuTe/MarioGuTe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Habilidades Técnicas y Metodologías
+Metodologías Ágiles: Implementación de Scrum.
+Control de Versiones: Dominio de GIT y GitHub.
+Front-End: JavaScript, TypeScript, React, Next.js, HTML, CSS.
+Back-End: Node.js, Express, NestJS, PostgreSQL, MongoDB, TypeORM.
+Otros: Docker.
+Experiencia Profesional
+Desarrollo Front-End: Creación de interfaces dinámicas y responsivas.
+Desarrollo Back-End: Diseño y desarrollo de APIs y servicios.
+Certificaciones
+Full Stack Developer - Henry
 
-Here are some ideas to get you started:
+Tecnologías: Redux, React, Next.js, NestJS, PostgreSQL, NodeJS, TypeScript, Docker, MongoDB, TypeORM.
+Desarrollo de proyectos Full Stack utilizando estas tecnologías.
+Utilización de Git y GitHub para el trabajo colaborativo.
+Participación en equipos de trabajo y generación de documentación técnica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack JavaScript Developer - Academia Desafío Latam
+
+Proyectos Front-end y Back-end con JavaScript, React, CSS, HTML, NodeJS y Express.
+Trabajo colaborativo con Git y GitHub.
+Desarrollo de proyecto final de e-commerce utilizando Figma para wireframes y mockups.
+React JS Developer - Escalab Tech
+
+Fundamentos de React y optimización de aplicaciones.
+Cualidades Personales
+Actitud Positiva: Enfoque proactivo y entusiasta.
+Trabajo en Equipo: Colaboración efectiva en equipos multidisciplinarios.
+Dedicación y Adaptabilidad: Compromiso con la mejora continua y adaptación a nuevas tecnologías.
+Contacto
+Correo electrónico: tuemail@example.com
+LinkedIn: linkedin.com/in/mario-gutierrez-tello
+GitHub: github.com/tuusuario
