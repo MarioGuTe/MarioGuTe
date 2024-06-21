@@ -4,7 +4,7 @@
 
 ## Sobre mí
 
-Full Stack Developer con formación en Interpretación Instrumental con mención en Guitarra y experiencia en docencia y gestión de grupos.
+Desarrollador Full-stack con experiencia desarrollando proyectos de manera freelance y autónoma, me encantaría seguir trabajando tanto en proyectos Front-end, Back-end y Full-stack que me desafíen a seguir explorando las diferentes áreas de la programación.
 
 ## Habilidades Técnicas y Metodologías
 
